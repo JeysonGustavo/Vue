@@ -1,6 +1,7 @@
 <template>
   <div class="main-container">
-    <h1>Gerenciar pedidos:</h1>
+    <h1>Gerenciar pedidos:   </h1>
+    <h1>Test</h1>
     <Dashboard />
   </div>
 </template>
@@ -10,7 +11,7 @@ import Dashboard from '../components/Dashboard.vue'
 
 export default {
   name: "Pedidos",
-  components: {
+  components: { 
     Dashboard,
   }
 }
