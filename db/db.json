@@ -87,7 +87,7 @@
         "Bacon",
         "Cheddar"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 1
     },
     {
@@ -98,16 +98,8 @@
         "Bacon",
         "Cheddar"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 2
-    },
-    {
-      "nome": "Maria",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opcionais": [],
-      "status": "Solicitado",
-      "id": 3
     }
   ]
 }
